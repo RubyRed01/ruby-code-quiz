@@ -13,3 +13,5 @@ An example of the score being collected at the end and an input box available fo
 
 ![pic4](https://user-images.githubusercontent.com/104714810/173233048-7fd5ffe3-9109-4ea7-84b7-c0020f38d2b2.png)
 And here is the final page with listed high scores.
+
+CSS and styling coming soon.
